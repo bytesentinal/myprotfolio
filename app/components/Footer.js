@@ -7,10 +7,10 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: FaGithub, href: "https://github.com/shahmeerhere", label: "GitHub", color: "hover:text-[#D1D1D1]" },
+    { icon: FaGithub, href: "https://github.com/bytesentinal", label: "GitHub", color: "hover:text-[#D1D1D1]" },
     { icon: FaLinkedin, href: "https://linkedin.com/in/shahmeershahid", label: "LinkedIn", color: "hover:text-[#4A0E0E]" },
     { icon: FaEnvelope, href: "mailto:theshahmeer786@gmail.com", label: "Email", color: "hover:text-[#4A0E0E]" },
-    { icon: FaInstagram, href: "https://instagram.com/shahmeer.shahid", label: "Instagram", color: "hover:text-[#4A0E0E]" },
+    { icon: FaInstagram, href: "https://instagram.com/bytesentinal", label: "Instagram", color: "hover:text-[#4A0E0E]" },
     { icon: SiFiverr, href: "https://www.fiverr.com/shahmeerhere", label: "Fiverr", color: "hover:text-[#4A0E0E]" },
     { icon: SiUpwork, href: "https://www.upwork.com/freelancers/~01shahmeer", label: "Upwork", color: "hover:text-[#4A0E0E]" },
   ];

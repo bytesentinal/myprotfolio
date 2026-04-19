@@ -90,7 +90,7 @@ export default function ContactSection({ id }) {
 
                             {/* GITHUB */}
                             <a
-                                href="https://github.com/shahmeerhere"
+                                href="https://github.com/bytesentinal"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center space-x-3 hover:opacity-80 transition"
@@ -116,7 +116,7 @@ export default function ContactSection({ id }) {
 
                             {/* INSTAGRAM */}
                             <a
-                                href="https://instagram.com/shahmeer.shahid"
+                                href="https://instagram.com/bytesentinal"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center space-x-3 hover:opacity-80 transition"
