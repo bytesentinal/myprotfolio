@@ -9,7 +9,7 @@ import {
     FaLinkedin,
     FaInstagram,
 } from "react-icons/fa";
-import { SiFiverr, SiUpwork } from "react-icons/si";
+import { SiFiverr, SiUpwork, SiX } from "react-icons/si";
 
 export default function ContactSection({ id }) {
     return (
@@ -88,6 +88,19 @@ export default function ContactSection({ id }) {
                                 </span>
                             </a>
 
+                            {/* X (formerly Twitter) */}
+                            <a
+                                href="https://x.com/shahmeershahid_"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="flex items-center space-x-3 hover:opacity-80 transition"
+                            >
+                                <SiX className="text-white bg-black rounded-sm p-0.5" />
+                                <span className="bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent font-semibold">
+                                    Twitter
+                                </span>
+                            </a>
+
                             {/* GITHUB */}
                             <a
                                 href="https://github.com/bytesentinal"
@@ -142,7 +155,7 @@ export default function ContactSection({ id }) {
 
                             {/* UPWORK */}
                             <a
-                                href="https://www.upwork.com/freelancers/~01shahmeer"
+                                href="https://www.upwork.com/freelancers/~01cf0ddf9b8b985b15"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center space-x-3 hover:opacity-80 transition"

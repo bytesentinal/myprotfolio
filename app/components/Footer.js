@@ -1,18 +1,19 @@
 "use client";
 import Link from "next/link";
 import { FaGithub, FaLinkedin, FaEnvelope, FaInstagram } from "react-icons/fa";
-import { SiFiverr, SiUpwork } from "react-icons/si";
+import { SiFiverr, SiUpwork, SiX } from "react-icons/si";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
     { icon: FaGithub, href: "https://github.com/bytesentinal", label: "GitHub", color: "hover:text-[#D1D1D1]" },
+    { icon: SiX, href: "https://x.com/shahmeershahid_", label: "X", color: "hover:text-white" },
     { icon: FaLinkedin, href: "https://linkedin.com/in/shahmeershahid", label: "LinkedIn", color: "hover:text-[#4A0E0E]" },
     { icon: FaEnvelope, href: "mailto:theshahmeer786@gmail.com", label: "Email", color: "hover:text-[#4A0E0E]" },
     { icon: FaInstagram, href: "https://instagram.com/bytesentinal", label: "Instagram", color: "hover:text-[#4A0E0E]" },
     { icon: SiFiverr, href: "https://www.fiverr.com/shahmeerhere", label: "Fiverr", color: "hover:text-[#4A0E0E]" },
-    { icon: SiUpwork, href: "https://www.upwork.com/freelancers/~01shahmeer", label: "Upwork", color: "hover:text-[#4A0E0E]" },
+    { icon: SiUpwork, href: "https://www.upwork.com/freelancers/~01cf0ddf9b8b985b15", label: "Upwork", color: "hover:text-[#4A0E0E]" },
   ];
 
   const quickLinks = [

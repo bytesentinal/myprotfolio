@@ -72,7 +72,7 @@ export const metadata = {
     title: "Shahmeer Shahid | Platform Engineer & DevSecOps Specialist",
     description: "Securing the software factory from signed commits to verified deployment artifacts.",
     images: ["/hero_office.png"],
-    creator: "@shahmeerhere",
+    creator: "@shahmeershahid_",
   },
   category: 'technology',
   robots: {
@@ -105,11 +105,11 @@ export default function RootLayout({ children }) {
     },
     "skills": ["Platform Engineering", "DevSecOps", "Cloud Security", "Kubernetes", "AI Infrastructure", "Next.js"],
     "sameAs": [
-      "https://github.com/shahmeerhere",
+      "https://github.com/bytesentinal",
       "https://linkedin.com/in/shahmeershahid",
-      "https://instagram.com/shahmeer.shahid",
+      "https://instagram.com/bytesentinal",
       "https://www.fiverr.com/shahmeerhere",
-      "https://www.upwork.com/freelancers/~01shahmeer"
+      "https://www.upwork.com/freelancers/~01cf0ddf9b8b985b15"
     ]
   };
 

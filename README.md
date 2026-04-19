@@ -25,7 +25,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shahmeerhere/portfolio.git
+git clone https://github.com/bytesentinal/myprotfolio.git
 ```
 
 2. Navigate into the project folder:
@@ -60,7 +60,7 @@ npm run dev
 
 * ✉️ Email: [shahmeerhere@example.com](mailto:theshahmeer786@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/shahmeershahid](https://linkedin.com/in/shahmeershahid)
-* 🔗 GitHub: [github.com/shahmeerhere](https://github.com/shahmeerhere)
+* 🔗 GitHub: [github.com/bytesentinal](https://github.com/bytesentinal)
 
 ## Folder Structure
 
