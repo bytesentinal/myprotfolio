@@ -77,7 +77,7 @@ const Navbar = () => {
             </ul>
 
             <Link
-              href="/Shahmeer_Shahid_Platform_Engineer_CV.pdf"
+              href="/Shahmeer_Shahid_CV.pdf"
               target="_blank"
             >
               <motion.button
