@@ -142,7 +142,7 @@ export default function ContactSection({ id }) {
 
                             {/* FIVERR */}
                             <a
-                                href="https://www.fiverr.com/shahmeerhere"
+                                href="https://www.fiverr.com/sellers/theshahmeer"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center space-x-3 hover:opacity-80 transition"
