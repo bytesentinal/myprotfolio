@@ -12,7 +12,7 @@ export default function Footer() {
     { icon: FaLinkedin, href: "https://linkedin.com/in/shahmeershahid", label: "LinkedIn", color: "hover:text-[#4A0E0E]" },
     { icon: FaEnvelope, href: "mailto:theshahmeer786@gmail.com", label: "Email", color: "hover:text-[#4A0E0E]" },
     { icon: FaInstagram, href: "https://instagram.com/bytesentinal", label: "Instagram", color: "hover:text-[#4A0E0E]" },
-    { icon: SiFiverr, href: "https://www.fiverr.com/shahmeerhere", label: "Fiverr", color: "hover:text-[#4A0E0E]" },
+    { icon: SiFiverr, href: "https://www.fiverr.com/sellers/theshahmeer", label: "Fiverr", color: "hover:text-[#4A0E0E]" },
     { icon: SiUpwork, href: "https://www.upwork.com/freelancers/~01cf0ddf9b8b985b15", label: "Upwork", color: "hover:text-[#4A0E0E]" },
   ];
 
